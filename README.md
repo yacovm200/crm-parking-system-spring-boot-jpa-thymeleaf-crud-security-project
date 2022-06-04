@@ -12,6 +12,11 @@ for a role_admin, He have the all authorized feture of role_user, but he can als
 
 the authorization and authentication based on spring boot security.
 
+Link: https://crm-parking-system-management.herokuapp.com/
+please use one of them to log-in:
+for role user: user name: yacov password:yacov
+for role admin: user name: admin password: admin
+
 pictures from the project:
 
 ![1](https://user-images.githubusercontent.com/41344975/169830114-60f817dd-5fda-493d-9f4c-2ec43c862189.png)
