@@ -15,7 +15,9 @@ the authorization and authentication based on spring boot security.
 Link: https://crm-parking-system-management.herokuapp.com/
 
 please use one of them to log-in:
+
 for role user: user name: yacov password:yacov
+
 for role admin: user name: admin password: admin
 
 pictures from the project:
